@@ -1,4 +1,5 @@
 /*
+Shortest Job First Scheduling Algoritm
 	author @MehmetErtekin
 */
 #include <iostream>
